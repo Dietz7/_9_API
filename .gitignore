@@ -1,0 +1,33 @@
+# IDEs and editors
+.idea/
+*.iml
+*.ipr
+*.iws
+*.sublime*
+
+# Build output
+/build/
+out/
+
+# Gradle
+.gradle/
+**/build/
+!gradle-wrapper.jar
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment files
+*.env
+
+# Java
+*.class
+
+# Windows-specific
+$RECYCLE.BIN/
+*.lnk
