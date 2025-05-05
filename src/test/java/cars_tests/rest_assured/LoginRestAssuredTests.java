@@ -19,7 +19,7 @@ public class LoginRestAssuredTests extends TestBase {
 
     AuthRequestDto errorBody = AuthRequestDto.builder()
             .username("julitester7@gmail.com")
-            .password("Test7!123")
+            .password("Test!123")
             .build();
 
     @Test
